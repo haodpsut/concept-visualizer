@@ -1,0 +1,5 @@
+{
+  "name": "AI/DRL Concept Visualizer",
+  "description": "An educational web app that uses animations and AI-generated explanations to help users understand complex topics in Artificial Intelligence and Deep Reinforcement Learning.",
+  "requestFramePermissions": []
+}
